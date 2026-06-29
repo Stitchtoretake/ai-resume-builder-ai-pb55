@@ -1,4 +1,4 @@
-# 
+# Automático AI Resume Builder scripts. Com ética de IA e aprendizado por reforço — otimizado para máximo desempenho.
 
 
 
